@@ -1,6 +1,7 @@
 
 public class C {
 	public static void main(String args[]) {
-		System.out.println("C first version");
+		System.out.print("C first version");
+		System.out.print(" + devC version");
 	}
 }
